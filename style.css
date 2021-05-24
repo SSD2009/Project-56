@@ -1,0 +1,40 @@
+body {
+    background-color: chocolate;
+    text-align: center;
+}
+
+#header {
+    font-family: fantasy;
+    font-size: 75px;
+}
+
+img {
+    border-style: solid;
+    border-color: #689F38 border: 1px border-radius: 80px;
+    padding: 5px;
+    width: 450px;
+}
+
+div {
+    margin-top: 30px;
+}
+
+p {
+    font-size: 50px;
+}
+
+#taj {
+    font-size: 25px;
+}
+
+#eiffel {
+    font-size: 25px
+}
+
+#colloseum {
+    font-size: 25px;
+}
+
+#pisa {
+    font-size: 25px;
+}
